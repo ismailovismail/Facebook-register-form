@@ -67,11 +67,13 @@ section .container .contop .input .search{
     color: white;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 section .container .contop .input .cancel{
     border: none;
     color:black;
     background-color: rgb(199, 194, 194);
     border-radius: 5px;
+    cursor: pointer;
 
 }

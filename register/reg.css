@@ -55,6 +55,7 @@ section .container .contop .sign fieldset form button{
     padding: 10px;
     display: flex;
     margin-left: 40%;
+    cursor: pointer;
     
 }
 
